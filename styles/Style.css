@@ -1,3 +1,23 @@
 p{
     color: blue;
 }
+header{
+    color: cadetblue;
+}
+footer{
+    color: rgb(36, 172, 31);
+}
+/* li{ */
+    /* background-color: blueviolet; */
+}
+.abc{
+    background-color:blueviolet ;
+}
+div{
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px
+}
+#username{
+    margin-bottom: 20px;
+}
